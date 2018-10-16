@@ -1,4 +1,4 @@
-//Shamim Babul 
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
