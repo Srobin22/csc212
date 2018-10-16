@@ -1,5 +1,4 @@
-// FILE: sequence1.h
-// Shamim Babul
+
 // CLASS PROVIDED: sequence (part of the namespace main_savitch_3)
 // There is no implementation file provided for this class since it is
 // an exercise from Section 3.2 of "Data Structures and Other Objects Using C++"
