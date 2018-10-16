@@ -1,5 +1,4 @@
-    // Provided by:   Shamim Babul
-// Email Address: sbabul000@citymail.cuny.edu
+
 // CLASS PROVIDED: statistician
 //   (a class to keep track of statistics on a sequence of real numbers)
 //   This class is part of the namespace main_savitch_2C.
