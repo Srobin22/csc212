@@ -1,5 +1,4 @@
-// Provided by:  Shamim Babul
-// Email Address: shamimbabul1118@gmail.com
+
 // Header Comment Has been filled with postconditions and preconditions of
 // Constructors, DESTRUCTOR, OPERATORS.
 // Header File has been appended by adding private members.
