@@ -1,4 +1,4 @@
-//Shamim Babul
+
 // Invariant of the Sequence 2.
 //  1. The total number of items stored on sequence class is stored in private
 //    member variable used.
