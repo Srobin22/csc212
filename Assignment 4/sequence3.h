@@ -1,4 +1,3 @@
-// PROVIDED BY: Shamim Babul
 // FILE: sequence3.h
 // CLASS PROVIDED: sequence (a container class for a sequence of items,
 // where each sequence may have a designated item called the current item)
