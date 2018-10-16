@@ -1,4 +1,3 @@
-//SHAMIM BABUL
 
 
 #include "rec_fun.h"
